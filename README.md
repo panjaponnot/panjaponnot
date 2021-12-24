@@ -30,5 +30,5 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
   <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://png.pngtree.com/png-vector/20190406/ourlarge/pngtree-yaml-file-document-icon-png-image_913778.jpg" alt="yaml" width="40" height="40"/> </a> 
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" alt="wordpress" width="40" height="40"/> </a> 
+  <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/> </a> 
 </p>
