@@ -35,5 +35,6 @@
   <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/> </a> 
 </p>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panjaponnot)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=panjaponnot&show_icons=true&locale=en&layout=compact" alt="panjaponnot" /></p>
